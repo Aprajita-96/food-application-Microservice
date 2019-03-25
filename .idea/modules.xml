@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zulimpl/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/Zulimpl/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-implementation/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/config-implementation/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-Implementation/.mvn/.mvn3.iml" filepath="$PROJECT_DIR$/eureka-Implementation/.mvn/.mvn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zulimpl/Zulimpl.iml" filepath="$PROJECT_DIR$/Zulimpl/Zulimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boeing-w1-test.iml" filepath="$PROJECT_DIR$/boeing-w1-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-implementation/config-implementation.iml" filepath="$PROJECT_DIR$/config-implementation/config-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-Implementation/eureka-Implementation.iml" filepath="$PROJECT_DIR$/eureka-Implementation/eureka-Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-service -mongo/foodie-service.iml" filepath="$PROJECT_DIR$/foodie-service -mongo/foodie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-implementation/src/main/main.iml" filepath="$PROJECT_DIR$/config-implementation/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zulimpl/src/main/main1.iml" filepath="$PROJECT_DIR$/Zulimpl/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-Implementation/src/main/main3.iml" filepath="$PROJECT_DIR$/eureka-Implementation/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-Implementation/src/test/test1.iml" filepath="$PROJECT_DIR$/eureka-Implementation/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-implementation/src/test/test2.iml" filepath="$PROJECT_DIR$/config-implementation/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zulimpl/src/test/test3.iml" filepath="$PROJECT_DIR$/Zulimpl/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>
